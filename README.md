@@ -1,5 +1,5 @@
 # snakegame
-multiplayer snake game that can be played by players in real time
+multiplayer snake game that can be played by players in real time. Inspired by the popular Nokia's snake game
 # Pre-Requisites 
 python3
 # Dependencies
